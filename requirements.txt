@@ -1,0 +1,9 @@
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=3.0
+aiosqlite
+langchain>=1.0
+langchain-anthropic>=1.0
+pytest
+pytest-asyncio
+langchain-openai>=1.0
+python-dotenv

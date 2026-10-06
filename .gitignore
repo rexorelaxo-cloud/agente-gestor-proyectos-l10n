@@ -1,0 +1,13 @@
+# Entorno y credenciales
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Memoria local del agente
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
